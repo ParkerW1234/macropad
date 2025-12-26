@@ -1,0 +1,158 @@
+{
+    "$schema": "https://schemas.kicad.org/erc.v1.json",
+    "coordinate_units": "mils",
+    "date": "2025-12-26T14:31:44-0500",
+    "kicad_version": "9.0.6",
+    "sheets": [
+        {
+            "path": "/",
+            "uuid_path": "/67551838-ecac-43ea-bd08-3485f460bb77",
+            "violations": [
+                {
+                    "description": "Input Power pin not driven by any Output Power pins",
+                    "items": [
+                        {
+                            "description": "Symbol #PWR01 Pin 1 [Power input, Line]",
+                            "pos": {
+                                "x": 62.0,
+                                "y": 58.0
+                            },
+                            "uuid": "3b96cff2-5977-4d8a-bbdf-64e3dcab9f01"
+                        }
+                    ],
+                    "severity": "error",
+                    "type": "power_pin_not_driven"
+                },
+                {
+                    "description": "Input Power pin not driven by any Output Power pins",
+                    "items": [
+                        {
+                            "description": "Symbol #PWR02 Pin 1 [Power input, Line]",
+                            "pos": {
+                                "x": 81.5,
+                                "y": 40.5
+                            },
+                            "uuid": "650d0af9-07ee-48db-a5f8-5ae69c6ea7d0"
+                        }
+                    ],
+                    "severity": "error",
+                    "type": "power_pin_not_driven"
+                },
+                {
+                    "description": "Pin not connected",
+                    "items": [
+                        {
+                            "description": "Symbol U1 Pin 12 [3V3, Passive, Line]",
+                            "pos": {
+                                "x": 97.0,
+                                "y": 25.5
+                            },
+                            "uuid": "4ebc38ae-4b6c-41fe-a151-38c3cdf70d2c"
+                        }
+                    ],
+                    "severity": "error",
+                    "type": "pin_not_connected"
+                },
+                {
+                    "description": "Pin not connected",
+                    "items": [
+                        {
+                            "description": "Symbol U1 Pin 11 [GPIO3/MOSI, Passive, Line]",
+                            "pos": {
+                                "x": 97.0,
+                                "y": 27.0
+                            },
+                            "uuid": "6a11dcf2-0919-4b1b-93a0-97e8c226b42d"
+                        }
+                    ],
+                    "severity": "error",
+                    "type": "pin_not_connected"
+                },
+                {
+                    "description": "Pin not connected",
+                    "items": [
+                        {
+                            "description": "Symbol U1 Pin 10 [GPIO4/MISO, Passive, Line]",
+                            "pos": {
+                                "x": 97.0,
+                                "y": 28.5
+                            },
+                            "uuid": "b6755260-fcbf-45bf-963a-9a8587785032"
+                        }
+                    ],
+                    "severity": "error",
+                    "type": "pin_not_connected"
+                },
+                {
+                    "description": "Pin not connected",
+                    "items": [
+                        {
+                            "description": "Symbol U1 Pin 9 [GPIO2/SCK, Passive, Line]",
+                            "pos": {
+                                "x": 97.0,
+                                "y": 30.0
+                            },
+                            "uuid": "defefef5-bc1e-427b-b4b0-2de777b4acf5"
+                        }
+                    ],
+                    "severity": "error",
+                    "type": "pin_not_connected"
+                },
+                {
+                    "description": "Pin not connected",
+                    "items": [
+                        {
+                            "description": "Symbol U1 Pin 8 [GPIO1/RX, Passive, Line]",
+                            "pos": {
+                                "x": 97.0,
+                                "y": 31.5
+                            },
+                            "uuid": "c47c4451-9a3c-4959-861f-57516eccae40"
+                        }
+                    ],
+                    "severity": "error",
+                    "type": "pin_not_connected"
+                },
+                {
+                    "description": "Both GND and K1 are attached to the same items; GND will be used in the netlist",
+                    "items": [
+                        {
+                            "description": "Symbol #PWR03 Pin 1 [Power input, Line]",
+                            "pos": {
+                                "x": 91.0,
+                                "y": 60.5
+                            },
+                            "uuid": "0261fa4d-e3e9-4c75-b66c-ed1b93c2cc9c"
+                        },
+                        {
+                            "description": "Label 'K1'",
+                            "pos": {
+                                "x": 49.0,
+                                "y": 51.0
+                            },
+                            "uuid": "77bed3a4-97ef-4491-937c-f9640d999b3a"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "Footprint 'MOUDLE14P-XIAO-DIP-SMD' not found in library 'Module'.",
+                    "items": [
+                        {
+                            "description": "Symbol U1 [XIAO-RP2040-DIP]",
+                            "pos": {
+                                "x": 84.5,
+                                "y": 20.5
+                            },
+                            "uuid": "65f9a83c-eaad-4301-9124-1126424892e8"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "footprint_link_issues"
+                }
+            ]
+        }
+    ],
+    "source": "Hackpad.kicad_sch"
+}
