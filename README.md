@@ -51,8 +51,12 @@ Designed in KiCad
 Keys wired directly to GPIO pins
 
 OLED connected over I²C (SDA/SCL)
+
+
 My PCB
+
 <img width="492" height="338" alt="Screenshot 2025-12-26 at 4 35 13 PM" src="https://github.com/user-attachments/assets/775f11c6-411a-41cf-bd79-a34932bc01eb" />
+
 My Schematic
 
 <img width="531" height="473" alt="Screenshot 2025-12-26 at 6 34 37 PM" src="https://github.com/user-attachments/assets/2b0a1cdb-703e-4c30-adf5-f7f018193259" />
