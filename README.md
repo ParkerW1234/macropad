@@ -1,4 +1,4 @@
-<mark>It does have a case I just forgot to fix what my submission says<mark/>
+
 
 <h1>Hackpad<h1/>
 
@@ -54,7 +54,9 @@ Keys wired directly to GPIO pins
 
 OLED connected over I²C (SDA/SCL)
 <h1>Case<h1/>
-Pcb will fit in case and be secured with hot glue for an open look
+  The PCB is intentionally left exposed to improve accessibility, reduce complexity, and showcase the hardware design.
+Leaving out a top enclosure simplifies assembly, allows easy debugging and modification, and keeps the focus on the PCB itself rather than a case.
+Pcb will fit in case and be secured with hot glue
 
 <h1>My PCB<h1/>
   
