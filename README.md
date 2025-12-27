@@ -80,6 +80,8 @@ Leaving out a top enclosure simplifies assembly, allows easy debugging and modif
 
 <p>
 The PCB fits inside a simple case and is secured using hot glue.
+  Case is secured with hot glue.
+  There is clearence between board and top peice.
 </p>
 
 <img
