@@ -1,3 +1,5 @@
+<mark><h1>It does have a case I just forgot to fix what my submission says<h1/><mark/>
+
 <h1>Hackpad<h1/>
 
 A simple 5-key macropad built with a Seeed XIAO RP2040 and a 0.91" OLED display.
