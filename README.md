@@ -51,7 +51,8 @@ Designed in KiCad
 Keys wired directly to GPIO pins
 
 OLED connected over I²C (SDA/SCL)
-
+<h1>Case<h1/>
+Pcb will fit in case and be secured with hot glue for an open look
 
 <h1>My PCB<h1/>
   
