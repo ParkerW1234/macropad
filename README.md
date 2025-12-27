@@ -86,8 +86,9 @@ The PCB fits inside a simple case and is secured using hot glue.
   width="666"
   height="361"
   alt="Case preview"
-  src="https://github.com/user-attachments/assets/9729e6d2-3e71-46c2-a7fe-441d8435d741"
+  src="https://github.com/user-attachments/assets/2f52b626-549d-4a55-9cf0-cd53c00a06eb"
 />
+
 
 <hr>
 
