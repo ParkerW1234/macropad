@@ -5,7 +5,7 @@ A simple <strong>5-key macropad</strong> built with a <strong>Seeed XIAO RP2040<
 </p>
 
 <p>
-Designed as a small, programmable USB keyboard.
+Designed as a small, programmable USB macropad.
 </p>
 
 <hr>
