@@ -71,17 +71,8 @@ Main firmware file:
 <h2>Case</h2>
 
 <p>
-The PCB is intentionally left exposed to improve accessibility, reduce complexity, and showcase the hardware design.
-</p>
-
-<p>
-Leaving out a top enclosure simplifies assembly, allows easy debugging and modification, and keeps the focus on the PCB itself rather than a case.
-</p>
-
-<p>
 The PCB fits inside a simple case and is secured using hot glue.
-  Case is secured with hot glue.
-  There is clearence between board and top peice.
+  Case is secured with super glue.
 </p>
 
 <img
