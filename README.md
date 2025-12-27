@@ -28,6 +28,8 @@ Designed as a small, programmable USB macropad.
   <li>Seeed XIAO RP2040</li>
   <li>5× MX-style switches</li>
   <li>0.91&quot; OLED display (GND–VCC–SCL–SDA pin order)</li>
+  <li>M3x5mx4mm heatset inserts</li>
+  <li>M3x16mm screws</li>
 </ul>
 
 <hr>
