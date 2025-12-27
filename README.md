@@ -71,15 +71,37 @@ Main firmware file:
 <h2>Case</h2>
 
 <p>
-The PCB fits inside a simple case and is secured using hot glue.
-  Case is secured with super glue.
-</p>
+The PCB fits inside a simple case that is secured with the M3x5mx4mm heatset inserts and m3x16 mm screws.
+
+
 
 <img
   width="666"
   height="361"
   alt="Case preview"
-  src="https://github.com/user-attachments/assets/2f52b626-549d-4a55-9cf0-cd53c00a06eb"
+  src="https://github.com/user-attachments/assets/83e5812e-5a78-451e-a333-c2df1ad9ace4"
+/>
+
+<img
+  width="666"
+  height="361"
+  alt="Case preview"
+  src="https://github.com/user-attachments/assets/6efa7fb8-5b5e-475f-91e7-d75c1a32a7b1"
+/>
+
+
+<img
+  width="666"
+  height="361"
+  alt="Case preview"
+  src="https://github.com/user-attachments/assets/185b1a89-0260-44a1-9a89-6f479e06e123"
+/>
+
+<img
+  width="666"
+  height="361"
+  alt="Case preview"
+  src="https://github.com/user-attachments/assets/41eeada1-ed68-4d0d-accd-78a3ae7e9723"
 />
 
 
