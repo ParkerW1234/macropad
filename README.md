@@ -55,7 +55,8 @@ OLED connected over I²C (SDA/SCL)
 
 <h1>My PCB<h1/>
 
-<img width="492" height="338" alt="Screenshot 2025-12-26 at 4 35 13 PM" src="https://github.com/user-attachments/assets/775f11c6-411a-41cf-bd79-a34932bc01eb" />
+<img width="585" height="371" alt="Screenshot 2025-12-26 at 6 59 59 PM" src="https://github.com/user-attachments/assets/b73d2abc-2d96-4391-bb70-4f8afdcdb1e1" />
+
 
 <h1>My Schematic<h1/>
 
